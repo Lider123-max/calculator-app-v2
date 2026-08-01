@@ -1,5 +1,6 @@
 plugins {
-    id 'com.android.application' version '8.1.0'
+    id 'com.android.application'
+}'
 }
 android {
     namespace 'com.abdulkarim.calculator'
